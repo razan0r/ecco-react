@@ -1,0 +1,63 @@
+
+.navbarProfile{
+    width: 45px;
+    height: 45px;
+    border-radius: 10px;
+    margin-right: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.w-15{
+    width:30px;
+    height: 30px;
+    position: absolute;
+    left:10%;
+    top: 0;
+}
+.cardNum{
+    background: red;
+    color: #fff;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    position: absolute;
+    left: 43px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top:7px
+}
+
+.navIcon{
+    height: 40px;
+    width: 40px; 
+}
+
+.spanav{
+    font-size: 20px;
+   font-weight: bolder;
+    
+}
+.c{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.nav-link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.s1{
+    margin-left: 10px;
+}
+.navbar{
+    background-color: transparent;
+}

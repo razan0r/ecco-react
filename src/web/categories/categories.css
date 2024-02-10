@@ -1,0 +1,50 @@
+
+.swiper-button-prev,.swiper-button-next{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    color: #000;
+    background: #fff;
+   
+}
+.swiper-image{
+    width: 80%;
+}
+.swiper-button-prev:after,.swiper-button-next:after{
+    font-size: 20px;
+}
+.swiper-pagination-clickable{
+    position: absolute;
+    top: 270px !important;
+}
+.swiper{
+position: relative;
+margin-block: 30px;
+padding-block: 30px;
+
+}
+.container0{
+    border-radius: 15px; 
+}
+.swiper-pagination-bullet-active{
+    background: #fff;
+    border: 1px solid #000;
+}
+.productCategory{
+    height: 400px;
+    width: 300px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    box-shadow: 10px 10px #a5c8f5;
+}
+.productName{
+ padding-top: 20px;
+font-size: 16px;
+font-family: DM Sans;
+ color: rgb(114, 128, 222)
+}
+.pece{
+    padding: 20px;
+   border-radius: 30px;
+
+}

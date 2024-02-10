@@ -1,0 +1,52 @@
+
+.overlay,.overlay1{
+    display:flex;
+    flex-direction: column;
+    position:absolute;
+    top: 5%;
+    left: 10%;
+    overflow-x: hidden;
+}
+.overlay1{
+    top: 30%;
+    left: 10%;
+    width: 40%;
+}
+.itemProduct{
+    height: 310px;
+}
+.h2Home{
+    font-family:Poppins ;
+    font-size:36px ;
+    font-weight: bolder;
+    padding-block: 3%;
+}
+.h5Home,.spanHome{
+    padding-top: 4%;
+    font-family: Poppins;
+    font-size: 14px;
+    color:  rgb(102, 102, 102) ;
+}
+.badge{
+    background-color: #717fe0;
+    width: 40%;
+    height: 45px;
+    border: none;
+    font-size: 15px !important;
+}
+.h1Crousel{
+    margin-left: 0;
+    margin-top: 3%;
+    margin-bottom: 5%;
+    font-size: 45px !important;
+}
+.spanCarousel{
+    font-size: 28px;
+    font-family:Poppins ;
+}
+.images .col-md-3{
+    position: relative;
+}
+.homeContent{
+    overflow-x: hidden;
+}

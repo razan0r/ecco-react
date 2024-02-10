@@ -1,0 +1,82 @@
+.userProfile{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid #403e39;
+    margin-left:40%;
+}
+.faCircleInfo{
+    color:#6e6e6e ;
+}
+.name{
+    color: rgb(0, 0, 0);
+}
+.bigContent{
+    overflow-x: hidden;
+}
+.username{
+    border: 1px solid #000;
+    width: fit-content;
+    padding-inline:10px ;
+    border-radius: 10px;
+}
+.imgBar{
+    height: 30px;
+    width: 30px;
+}
+.profile {
+    display: flex;
+    gap: 40px;
+    height: 90vh;
+}
+.userName{
+    margin-left: 40%;
+    margin-top: 2%;
+}
+.profileLinks {
+    background-color: #6e6e6e;
+    height: calc(100vh-65px);
+    border: 1px solid #000;
+}
+.profileLinks nav a{
+    color: #fff !important;
+    text-decoration: none;
+    
+}
+.profileLinks nav a img{
+    margin-right: 10px;
+}
+.profileLinks nav{
+   
+    margin-left: 30px;
+    margin-top: 50px;
+   width: 200px;
+    display: flex;
+   
+    flex-direction: column;
+    gap: 60px;
+}
+.table{
+    overflow-y:scroll;
+    display: block;
+    height:85vh;
+    width: 55% !important;
+    
+   
+}
+.imgDetails{
+    width: 120px;
+    height: 120px;
+    border-radius: 20px;
+    border: 1px solid #6e6e6e;
+}
+td{
+    text-align: center; 
+}
+.user-contact,.user-info,.user-order{
+    border: 3px solid #6e6e6e;
+    height: 89vh;
+}
+.xMark{
+    color: #000000;;
+}

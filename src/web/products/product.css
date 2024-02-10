@@ -1,0 +1,76 @@
+.subImage{
+  height: 100px;
+  width: 100px;
+  border: 1px solid #000;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.mainImg{
+  height: 310px;
+  width: 310px;
+  border: 1px solid #000;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px 5px #545050e7;
+}
+.hand,.page-item .page-link{
+  color:#1fa761 ;
+}
+.fs-7{
+  font-size: 12px
+}
+.w-20{
+  width: 15%;
+}
+.productName{
+  width: 300px;
+  height: 350px;
+}
+.pagination{
+  margin-left: 45%;
+}
+.userImage{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: inline;
+  margin-right: 10px;
+}
+.dropdown-center{
+ 
+  margin-left: 58% !important;
+}
+.dropdown-menu{
+  width: 170% !important;
+  padding: 5% !important;
+}
+.customerReview{
+  height: 50vh;
+  overflow-y: scroll;
+  width: 50%;
+  overflow-x: hidden;
+}
+.card{
+  width: 280px;
+  height:420px !important;
+  box-shadow: 5px 5px 5px 5px #e3e2e27b;
+  background-color: #fffffc5d !important;
+}
+.w-30{
+  width: 30%;
+}
+.card-img-top{
+  margin-top: 10% !important;
+  width:200px !important;
+  height:200px ;
+  margin: auto;
+  border: 1px solid #686868;
+}
+.form-select {
+  width: 30% !important;
+  height:40px !important;
+}
+.Description{
+  height: 160px;
+  overflow-y: scroll;
+}
+
